@@ -1,10 +1,6 @@
 
 
-### Report example
-![Report plot](report.png)
 
-
-After running the script with defualt settings you will get **./out** dir with debug frames images and **report.csv** file with format "time, vehicles".
 
 ## How to run script
 ```
