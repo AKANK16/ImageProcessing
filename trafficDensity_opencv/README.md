@@ -1,4 +1,3 @@
-# Traffic counting example based on OpencCV object detection with background subtraction
 
 
 ### Report example
